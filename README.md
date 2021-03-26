@@ -2,7 +2,7 @@
 Bachelor's Degree Thesis - Computer Science and Engineering
 
 <div align="center">
-<img alt="logo_unife" width:10 src=https://github.com/Andreab-git/B.Eng-Thesis/blob/main/logo_unife.jpg?raw=true" >
+<img alt="logo_unife" height="500" src=https://github.com/Andreab-git/B.Eng-Thesis/blob/main/logo_unife.jpg?raw=true" >
 </div>
                                                                                        
 <br>
